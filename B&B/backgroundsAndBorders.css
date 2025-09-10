@@ -1,0 +1,26 @@
+h1 {
+    background-color: lightblue;
+    border-style: solid;
+    border-width: 5px;
+    border-color: Navy;
+}
+p.one {
+    background-color: lightgreen;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: darkgreen;
+}
+
+div {
+    background-color: pink;
+    border-style: double;
+    border-width: 10px;
+    border-color: purple;
+}
+
+ul {
+    background-color: lightyellow;
+    border-style: dotted;
+    border-width: 3px;
+    border-color: orange;
+}
